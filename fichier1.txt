@@ -1,3 +1,5 @@
 Ici je fais une modification pour un commit 2 !!!! 
 
 !!! ERREUR !!! => faudrait faire un "revert" :)
+
+Là je fais une modification tout à fait valide que je vais commiter et je n'ai pas vu encore l'erreur juste au-dessus...
